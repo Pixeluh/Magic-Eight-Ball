@@ -1,5 +1,7 @@
 # Magic Eight Ball
 
 :neckbeard: :neckbeard: :neckbeard: :neckbeard:
-<b>Ask a question to receive an answer!</b>
+
+Ask a question to receive an answer!
+
 :neckbeard: :neckbeard: :neckbeard: :neckbeard:
