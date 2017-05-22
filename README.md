@@ -1,3 +1,3 @@
-"# Magic-Eight-Ball"
+# Magic Eight Ball
 
 :neckbeard: :neckbeard: :neckbeard: :neckbeard:
